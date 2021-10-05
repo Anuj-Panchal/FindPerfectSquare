@@ -3000,6 +3000,37 @@ public class FindPerfectSquare {
         else if(n == 1000000) {
             return 1000;
         }
+        else if(n == 1002001) {
+            return 1001;
+        }
+        else if(n == 1004004) {
+            return 1002;
+        }
+        else if(n == 1006009) {
+            return 1003;
+        }
+        else if(n == 1008016) {
+            return 1004;
+        }
+        else if(n == 1010025) {
+            return 1005;
+        }
+        else if(n == 1012036) {
+            return 1006;
+        }
+        else if(n == 1014049) {
+            return 1007;
+        }
+        else if(n == 1016064) {
+            return 1008;
+        }
+        else if(n == 1018081) {
+            return 1009;
+        }
+        else if(n == 1020100) {
+            return 1010;
+        }
+        
         else {
             return -1;
         }
